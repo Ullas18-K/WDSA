@@ -1,0 +1,10 @@
+class Solution:
+    def divisors(self, n):
+        mylist=[]
+        for i in range(1,n+1):
+            if n%i==0:
+                mylist.append(i)
+        return mylist
+
+obj1=Solution()
+print(obj1.divisors(8))
