@@ -1,4 +1,4 @@
-package Binary_search;
+package Binary_search.part_1;
 
 public class floor_ciel {
     static void main() {

@@ -1,4 +1,4 @@
-package Binary_search;
+package Binary_search.part_1;
 
 public class basic {
     static void main() {
