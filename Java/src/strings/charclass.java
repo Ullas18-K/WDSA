@@ -16,6 +16,5 @@ public class charclass {
         System.out.println(Character.getNumericValue(s.charAt(s.length()-1)));
         System.out.println(Character.getNumericValue('4'));
 
-
     }
 }

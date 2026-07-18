@@ -58,5 +58,7 @@ public class basic {
         System.out.println(Double.toString(453.54));
 
         System.out.println("gg"+" myahh");
+        System.out.println('a'-'0'); //character wise arithmetic ops will convert chars into ascii equivalent
+        System.out.println('1'-'0');//when extracting numeric string char by char
     }
 }
